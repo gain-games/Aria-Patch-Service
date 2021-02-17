@@ -1,6 +1,31 @@
 {
   "version": 1,
   "patches": [
-    
+    {
+      "name": "Testing",
+      "description": "Test DLC Please Ignore",
+      "minimum_version": [1,0,0]
+    },
+    {
+      "name": "Testing2",
+      "description": "Test DLC Please Ignore",
+      "minimum_version": [2,0,0]
+    },
+    {
+      "name": "Testing3",
+      "description": "Test DLC Please Ignore",
+      "minimum_version": [1,1,0]
+    },
+    {
+      "name": "Testing4",
+      "description": "Test DLC Please Ignore",
+      "minimum_version": [1,0,1]
+    },
+    {
+      "name": "Testing5",
+      "description": "Test DLC Please Ignore",
+      "minimum_version": [1,0,0],
+      "maximum_version": [2,0,0]
+    }
   ]
 }
